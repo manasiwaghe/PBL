@@ -1,0 +1,42 @@
+[
+{
+    "productName": "Samosa",
+    "price": "Rs.15",
+    "photo": "images/samosa.jpg"  
+},
+{
+    "productName": "Veg cheese grilled sandwich",
+    "price": "Rs.50",
+    "photo": "images/cheese sandwich.jpg"  
+},
+{
+    "productName": "Dhokla",
+    "price": "Rs.15",
+    "photo": "images/dhokla.jpg"  
+},
+{
+    "productName": "Idli",
+    "price": "Rs.15",
+    "photo": "images/idli.jpg"  
+},
+{
+    "productName": "Masala Dosa",
+    "price": "Rs.30",
+    "photo": "images/masala-dosa-.jpg"  
+},
+{
+    "productName": "Veg Grilled Sandwich",
+    "price": "Rs.35",
+    "photo": "images/sandwich.jpg"  
+},
+{
+    "productName": "Uttapa",
+    "price": "Rs.30",
+    "photo": "images/uttapa.webp"  
+},
+{
+    "productName": "Vada Pav",
+    "price": "Rs.15",
+    "photo": "images/Vada-Pav-500x500.webp"  
+}
+]
